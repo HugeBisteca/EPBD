@@ -202,3 +202,5 @@ def menu_principal():
             print("Opção inválida. Tente novamente.")
     
     conn.close()
+#Executa o menu principal
+menu_principal()
